@@ -12,7 +12,7 @@ Arduino Final Project
 
 ## 材料:  
 	物件 | Type | 數量
-	--- | --- | --- | --- 
+	--- | --- | --- 
 	控制器 |	 Arduino UNO | 1
 	超音波 | SR04 | 1
 	Wifi | ESP8266 | 1
