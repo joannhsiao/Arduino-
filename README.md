@@ -11,12 +11,12 @@ Arduino Final Project
 	所以，若以完整性，需拿掉連接blynk的部分，內容將沒有遠端監控的功能，但門的防盜系統還是有作用的。
 
 ## 材料:  
-	物件 | Type | 數量
-	--- | --- | --- 
-	控制器 |	 Arduino UNO | 1
-	超音波 | SR04 | 1
-	Wifi | ESP8266 | 1
-	LCD | 1602 | 1
-	Buzzer |  | 1
-	Keypad |  | 1
-	燈泡	 | LED | 3
+	| 物件 | Type | 數量 |
+	| :---: | :---: | :---: |
+	| 控制器 | Arduino UNO | 1 |
+	| 超音波 | SR04 | 1 |
+	| Wifi | ESP8266 | 1 |
+	| LCD | 1602 | 1 |
+	| Buzzer |  | 1 |
+	| Keypad |  | 1 |
+	| 燈泡	 | LED | 3 |
