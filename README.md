@@ -20,3 +20,6 @@ Arduino Final Project
 | Buzzer |  | 1 |
 | Keypad |  | 1 |
 | 燈泡	 | LED | 3 |
+
+
+!!電路圖請參考Circuit.jpg
