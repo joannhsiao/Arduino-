@@ -21,6 +21,5 @@ Arduino Final Project
 | Keypad |  | 1 |
 | 燈泡	 | LED | 3 |
 
-
 ## 電路圖
 [Circuit](https://github.com/joannhsiao/Arduino-Anti-theft-device/blob/main/circuit.jpg)
