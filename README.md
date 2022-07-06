@@ -1,6 +1,6 @@
 # Arduino-防盜裝置
 Arduino Final Project  
-## Team
+## Team member
 > 黃姵馨, 蕭名誼
 
 ## Descrption:  
@@ -21,6 +21,6 @@ Arduino Final Project
 | Keypad |  | 1 |
 | 燈泡	 | LED | 3 |
 
-## 電路圖
+## Circuit
 ![circuit](https://github.com/joannhsiao/Arduino-Anti-theft-device/blob/main/Circuit_2.jpg)
-![街腳](https://github.com/joannhsiao/Arduino-Anti-theft-device/blob/main/circuit.jpg)
+![接腳](https://github.com/joannhsiao/Arduino-Anti-theft-device/blob/main/circuit.jpg)
